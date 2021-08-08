@@ -4,7 +4,6 @@ Hey there fellow devs and welcome to my <img src="https://img.icons8.com/color/9
 I'm Awi Mphaphuli. A developer, father and FOSS enthusiast from Johannesburg.
 </div>
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/adoubleyoueye)
 - 🧠 I am currently learning/improving my skilling with Docker, GCP, K8s, Python, React w/typescript and women
 
 ```python
