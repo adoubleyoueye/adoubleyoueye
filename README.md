@@ -1,6 +1,8 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoubleyoueye&count_private=true&hide=jupyter%20notebook,php,dart&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoubleyoueye&count_private=true&hide=php,html&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![python](https://imgs.xkcd.com/comics/python.png)<b>From [xkcd](https://xkcd.com/353/)</b>
 <!--
 
 Here are some ideas to get you started:
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
