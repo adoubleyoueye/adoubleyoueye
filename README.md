@@ -1,8 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoubleyoueye&count_private=true&hide=php,html&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![python](https://imgs.xkcd.com/comics/python.png)<b>From [xkcd](https://xkcd.com/353/)</b>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoubleyoueye&count_private=true&hide=php,html&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)![python](https://imgs.xkcd.com/comics/python.png)<b>From [xkcd](https://xkcd.com/353/)</b>
 <!--
 
 Here are some ideas to get you started:
