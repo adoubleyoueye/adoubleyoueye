@@ -4,7 +4,7 @@ Hey there fellow devs and welcome to my <img src="https://img.icons8.com/color/9
 I'm Awi Mphaphuli. A developer, father and FOSS enthusiast from Johannesburg.
 </div>
 
-- 🧠 I am currently learning/improving my skills with Docker, GCP, K8s, Python, React w/typescript.
+- 🧠 I am currently learning/improving my skills with Docker, GCP, K8s, Python, React w/ typescript.
 
 ```python
 class Adoubleyoueye:
