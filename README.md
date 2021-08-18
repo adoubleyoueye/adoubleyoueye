@@ -4,7 +4,7 @@ Hey there fellow devs and welcome to my <img src="https://img.icons8.com/color/9
 I'm Awi Mphaphuli. A developer, father and FOSS enthusiast from Johannesburg.
 </div>
 
-- 🧠 Currently improving my skills with Docker, GCP, K8s, Python, Ruby.
+- 🧠 Currently improving my skills with Docker, GCP, K8s, Python and Ruby.
 - 🍕 Fun opinion: Pinapples don't belong on pizza but anchovies and olives do.
 
 <!--
