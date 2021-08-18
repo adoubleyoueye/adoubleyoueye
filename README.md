@@ -5,7 +5,7 @@ I'm Awi Mphaphuli. A developer, father and FOSS enthusiast from Johannesburg.
 </div>
 
 - 🧠 Currently improving my skills with Docker, GCP, K8s, Python, Typescript.
-- 🍕 Fun fact: Pinapples don't belong on pizza but anchovies and olives do.
+- 🍕 Fun opinion: Pinapples don't belong on pizza but anchovies and olives do.
 
 <!--
 ```python
