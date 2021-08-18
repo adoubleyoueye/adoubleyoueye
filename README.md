@@ -7,6 +7,7 @@ I'm Awi Mphaphuli. A developer, father and FOSS enthusiast from Johannesburg.
 - 🧠 Currently improving my skills with Docker, GCP, K8s, Python, Typescript.
 - 🍕 Fun fact: Pinapples don't belong on pizza but anchovies and olives do.
 
+<!--
 ```python
 class Adoubleyoueye:
     def __init__(self):
@@ -25,7 +26,7 @@ class Adoubleyoueye:
 if __name__ == '__main__':
     me = Adoubleyoueye()
 ```
-
+-->
 <div align="center">
 <figure><img src="https://imgs.xkcd.com/comics/python.png" alt="python" style="width:10px"><figcaption><b><br>Source:<a href="https://xkcd.com/353/">xkcd</a></b></figcaption></figure>
 </div>
