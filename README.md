@@ -5,7 +5,6 @@ I'm Awi Mphaphuli. A developer and FOSS enthusiast from Johannesburg.
 </div>
 
 - 🧠 Currently improving my skills with Docker, GCP, K8s, Python and ReactJs.
-- 🍕 Fun opinion: Pinapples don't belong on pizza but anchovies and olives do.
 
 <!--
 ```python
